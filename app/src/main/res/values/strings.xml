@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">wifi_scanner</string>
+
+    <string name="wifi_switch">Wi-Fi %1$s</string>
+    <string name="wifi_on">开</string>
+    <string name="wifi_off">关</string>
+    <string name="menu_main_show_profiles">Show Profiles</string>
+    <string name="msg_wifi_scan_failed">Could not initialize Wi-Fi scan.</string>
+    <string name="supl_state_completed">已连接</string>
+    <string name="supl_state_authenticating">认证中&#8230;</string>
+    <string name="supl_state_associated">已连接</string>
+    <string name="supl_state_associating">正在连接&#8230;</string>
+    <string name="supl_state_other">已断开</string>
+    <string name="wifi_unsupported">网络不支持</string>
+    <string name="wifi_ssid_hidden">(隐藏的网络)</string>
+    <string name="wifi_has_profile">已保存</string>
+    <string name="wifi_secure">已认证</string>
+    <string name="wifi_open">打开网络</string>
+    <string name="dlg_ssid">WIFI名称</string>
+    <string name="dlg_security">安全</string>
+    <string name="dlg_passphrase">密码</string>
+    <string name="dlg_passphrase_saved">(已保存)</string>
+    <string name="dlg_action_forget">删除网络</string>
+    <string name="dlg_action_connect">连接</string>
+    <string name="dlg_action_dismiss">断开</string>
+    <string name="dlg_wifi_connect_title">连接到网络</string>
+    <string name="dlg_wifi_connected_title">连接信息</string>
+    <string name="dlg_wifi_saved_title">已保存的网络</string>
+    <string name="dlg_wifi_unsupported_title">网络不支持</string>
+    <string name="dlg_warn_unsupported">不支持该网络的安全安全认证，请选择其他网络</string>
+    <string name="dlg_warn_hidden">无法连接到隐藏的网络，请选择其他网络</string>
+    <string name="action_result_connect">开始尝试连接</string>
+    <string name="action_result_create_profile_error">无法创建网络配置文件。 连接尝试已取消。</string>
+    <string name="action_result_invalid_passphrase">密码太短。 最小长度为 8 个字符。</string>
+    <string name="action_result_profile_delete">网络配置文件已删除</string>
+    <string name="action_result_profile_cannot_delete">无法删除系统配置的网络配置文件</string>
+</resources>
